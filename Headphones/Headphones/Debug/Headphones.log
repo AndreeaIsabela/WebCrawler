@@ -1,0 +1,5 @@
+﻿  Cel.cpp
+c:\users\sony\desktop\facultate\anul iii\sem i\cds\tema2\headphones\headphones\cel.cpp(28): warning C4018: '<': signed/unsigned mismatch
+c:\users\sony\desktop\facultate\anul iii\sem i\cds\tema2\headphones\headphones\cel.cpp(55): warning C4244: 'argument': conversion from 'std::streamoff' to 'const unsigned int', possible loss of data
+  Headphones.vcxproj -> C:\Users\sony\Desktop\Facultate\Anul III\Sem I\CDS\Tema2\Headphones\Debug\Headphones.exe
+  Headphones.vcxproj -> C:\Users\sony\Desktop\Facultate\Anul III\Sem I\CDS\Tema2\Headphones\Debug\Headphones.pdb (Partial PDB)
